@@ -17,5 +17,7 @@
 - branch 
 - branch -r
 - branch -d
-- 
 
+### Resources
+- https://www.w3schools.com/git/default.asp?remote=github
+- https://data-to-production.gitbook.io/product-docs/fundamentals/getting-started/step-1-github/resources
